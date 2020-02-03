@@ -1,4 +1,4 @@
-const texts = ["Dip", "Dipanwita", "Developer", "Web Developer", "Designer"];
+const texts = ["Developer", "Web Developer", "Designer"];
 let count = 0,
   index = 0,
   letter = "",
