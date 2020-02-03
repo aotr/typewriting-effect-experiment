@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.intro {
+  display: flex;
+  color: rgb(128, 66, 66);
+  height: 100vh;
+  background: url("opt.jpg");
+  background-size: cover;
+}
